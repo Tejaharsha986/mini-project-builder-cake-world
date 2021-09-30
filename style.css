@@ -8,4 +8,17 @@
 }
 
 /* Fill your code*/
-
+*{
+    background-color: rebeccapurple;
+}
+.mydiv{
+    
+}
+#text{
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+}
+img{
+    width: 100px;
+}
